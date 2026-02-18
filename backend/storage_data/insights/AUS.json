@@ -1,0 +1,24 @@
+{
+    "investment_climate_summary": "Australia's macroeconomic indicators show a stable economy with a GDP growth rate of 1.37% in 2024 and an inflation rate of 3.16%. The country has a relatively low unemployment rate of 3.94%, making it an attractive destination for investments.",
+    "political_summary": "The Australian government is a federal parliamentary constitutional monarchy, with the current Prime Minister being Anthony Albanese. The government has implemented policies to reduce carbon emissions and increase economic growth, but faces challenges from opposition parties and internal party conflicts.",
+    "key_takeaways": [
+        "Stable economy with growing GDP",
+        "Low unemployment rate making it an attractive destination for investments",
+        "Government policies focused on reducing carbon emissions and increasing economic growth",
+        "Medium political stability due to internal party conflicts and opposition",
+        "Upcoming federal election in 2025"
+    ],
+    "political_landscape": {
+        "government_type": "Federal Parliamentary Constitutional Monarchy",
+        "current_leaders": [
+            "Anthony Albanese (Prime Minister)"
+        ],
+        "major_parties": [
+            "Australian Labor Party",
+            "Liberal Party of Australia"
+        ],
+        "stability": "Medium",
+        "upcoming_elections": "Next federal election due in 2025",
+        "recent_conflicts": "Internal party conflicts and opposition from conservative parties"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "investment_climate_summary": "India's investment climate is favorable due to its growing economy, with a projected GDP growth rate of 6.49% in 2024 and a large consumer market. However, inflation remains a concern at 4.95%, and high unemployment rates may impact economic stability.",
+    "political_summary": "India has a complex political landscape with a multi-party system and frequent coalition governments. The country's major parties include the Bharatiya Janata Party (BJP) and the Indian National Congress (INC).",
+    "key_takeaways": [
+        "Growing economy with a projected GDP growth rate of 6.49% in 2024",
+        "High inflation rates (4.95%) and unemployment rates (4.17%) are concerns",
+        "Complex political landscape with multiple parties and frequent coalition governments",
+        "Upcoming General Elections in 2024 may impact government stability"
+    ],
+    "political_landscape": {
+        "government_type": "Federal Parliamentary Constitutional Republic",
+        "current_leaders": [
+            "Prime Minister Narendra Modi"
+        ],
+        "major_parties": [
+            "Bharatiya Janata Party (BJP)",
+            "Indian National Congress (INC)",
+            "All India Trinamool Congress (AITC)"
+        ],
+        "stability": "Medium",
+        "upcoming_elections": "General Elections are due in 2024, with the BJP likely to face a challenge from opposition parties.",
+        "recent_conflicts": "India has ongoing border tensions with Pakistan and China."
+    }
+}

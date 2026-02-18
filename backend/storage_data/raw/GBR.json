@@ -1,0 +1,531 @@
+{
+    "metadata": {
+        "name": "United Kingdom",
+        "code": "GBR",
+        "flag": "https://flagcdn.com/w320/gb.png"
+    },
+    "wiki": {
+        "type": "standard",
+        "title": "United Kingdom",
+        "displaytitle": "<span class=\"mw-page-title-main\">United Kingdom</span>",
+        "namespace": {
+            "id": 0,
+            "text": ""
+        },
+        "wikibase_item": "Q145",
+        "titles": {
+            "canonical": "United_Kingdom",
+            "normalized": "United Kingdom",
+            "display": "<span class=\"mw-page-title-main\">United Kingdom</span>"
+        },
+        "pageid": 31717,
+        "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/330px-Flag_of_the_United_Kingdom_%281-2%29.svg.png",
+            "width": 330,
+            "height": 165
+        },
+        "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/1280px-Flag_of_the_United_Kingdom_%281-2%29.svg.png",
+            "width": 1200,
+            "height": 600
+        },
+        "lang": "en",
+        "dir": "ltr",
+        "revision": "1338704776",
+        "tid": "9d61c654-0b6c-11f1-9bbf-35536e9247cf",
+        "timestamp": "2026-02-16T19:20:55Z",
+        "description": "Country in northwestern Europe",
+        "description_source": "local",
+        "coordinates": {
+            "lat": 55,
+            "lon": -3
+        },
+        "content_urls": {
+            "desktop": {
+                "page": "https://en.wikipedia.org/wiki/United_Kingdom",
+                "revisions": "https://en.wikipedia.org/wiki/United_Kingdom?action=history",
+                "edit": "https://en.wikipedia.org/wiki/United_Kingdom?action=edit",
+                "talk": "https://en.wikipedia.org/wiki/Talk:United_Kingdom"
+            },
+            "mobile": {
+                "page": "https://en.wikipedia.org/wiki/United_Kingdom",
+                "revisions": "https://en.wikipedia.org/wiki/Special:History/United_Kingdom",
+                "edit": "https://en.wikipedia.org/wiki/United_Kingdom?action=edit",
+                "talk": "https://en.wikipedia.org/wiki/Talk:United_Kingdom"
+            }
+        },
+        "extract": "The United Kingdom of Great Britain and Northern Ireland, commonly known as the United Kingdom (UK) or Britain, is a country in northwestern Europe, off the coast of the continental mainland. It comprises England, Scotland, Wales and Northern Ireland, with a population of over 69 million in 2024. The UK includes the island of Great Britain, the north-eastern part of the island of Ireland, and most of the smaller islands within the British Isles, covering 94,354 square miles (244,376\u00a0km2). It shares a land border with the Republic of Ireland and is surrounded by the Atlantic Ocean, the North Sea, the English Channel, the Celtic Sea and the Irish Sea, while maintaining sovereignty over the Crown Dependencies and the British Overseas Territories. The capital and largest city of England and the UK is London; Edinburgh, Cardiff and Belfast are the national capitals of Scotland, Wales and Northern Ireland.",
+        "extract_html": "<p>The <b>United Kingdom of Great Britain and Northern Ireland</b>, commonly known as the <b>United Kingdom</b> (<b>UK</b>) or <b>Britain</b>, is a country in northwestern Europe, off the coast of the continental mainland. It comprises England, Scotland, Wales and Northern Ireland, with a population of over 69 million in 2024. The UK includes the island of Great Britain, the north-eastern part of the island of Ireland, and most of the smaller islands within the British Isles, covering 94,354 square miles (244,376\u00a0km<sup>2</sup>). It shares a land border with the Republic of Ireland and is surrounded by the Atlantic Ocean, the North Sea, the English Channel, the Celtic Sea and the Irish Sea, while maintaining sovereignty over the Crown Dependencies and the British Overseas Territories. The capital and largest city of England and the UK is London; Edinburgh, Cardiff and Belfast are the national capitals of Scotland, Wales and Northern Ireland.</p>"
+    },
+    "macro": {
+        "gdp": [
+            {
+                "indicator": {
+                    "id": "NY.GDP.MKTP.CD",
+                    "value": "GDP (current US$)"
+                },
+                "country": {
+                    "id": "GB",
+                    "value": "United Kingdom"
+                },
+                "countryiso3code": "GBR",
+                "date": "2024",
+                "value": 3686033044482.13,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 0
+            },
+            {
+                "indicator": {
+                    "id": "NY.GDP.MKTP.CD",
+                    "value": "GDP (current US$)"
+                },
+                "country": {
+                    "id": "GB",
+                    "value": "United Kingdom"
+                },
+                "countryiso3code": "GBR",
+                "date": "2023",
+                "value": 3420796653789.08,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 0
+            },
+            {
+                "indicator": {
+                    "id": "NY.GDP.MKTP.CD",
+                    "value": "GDP (current US$)"
+                },
+                "country": {
+                    "id": "GB",
+                    "value": "United Kingdom"
+                },
+                "countryiso3code": "GBR",
+                "date": "2022",
+                "value": 3181244350465.41,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 0
+            },
+            {
+                "indicator": {
+                    "id": "NY.GDP.MKTP.CD",
+                    "value": "GDP (current US$)"
+                },
+                "country": {
+                    "id": "GB",
+                    "value": "United Kingdom"
+                },
+                "countryiso3code": "GBR",
+                "date": "2021",
+                "value": 3194559188925.93,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 0
+            },
+            {
+                "indicator": {
+                    "id": "NY.GDP.MKTP.CD",
+                    "value": "GDP (current US$)"
+                },
+                "country": {
+                    "id": "GB",
+                    "value": "United Kingdom"
+                },
+                "countryiso3code": "GBR",
+                "date": "2020",
+                "value": 2724001478304.59,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 0
+            }
+        ],
+        "gdp_growth": [
+            {
+                "indicator": {
+                    "id": "NY.GDP.MKTP.KD.ZG",
+                    "value": "GDP growth (annual %)"
+                },
+                "country": {
+                    "id": "GB",
+                    "value": "United Kingdom"
+                },
+                "countryiso3code": "GBR",
+                "date": "2024",
+                "value": 1.1264226705118,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "NY.GDP.MKTP.KD.ZG",
+                    "value": "GDP growth (annual %)"
+                },
+                "country": {
+                    "id": "GB",
+                    "value": "United Kingdom"
+                },
+                "countryiso3code": "GBR",
+                "date": "2023",
+                "value": 0.271650048355255,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "NY.GDP.MKTP.KD.ZG",
+                    "value": "GDP growth (annual %)"
+                },
+                "country": {
+                    "id": "GB",
+                    "value": "United Kingdom"
+                },
+                "countryiso3code": "GBR",
+                "date": "2022",
+                "value": 5.14970388522993,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "NY.GDP.MKTP.KD.ZG",
+                    "value": "GDP growth (annual %)"
+                },
+                "country": {
+                    "id": "GB",
+                    "value": "United Kingdom"
+                },
+                "countryiso3code": "GBR",
+                "date": "2021",
+                "value": 8.5431118453255,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "NY.GDP.MKTP.KD.ZG",
+                    "value": "GDP growth (annual %)"
+                },
+                "country": {
+                    "id": "GB",
+                    "value": "United Kingdom"
+                },
+                "countryiso3code": "GBR",
+                "date": "2020",
+                "value": -10.047896637362,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            }
+        ],
+        "inflation": [
+            {
+                "indicator": {
+                    "id": "FP.CPI.TOTL.ZG",
+                    "value": "Inflation, consumer prices (annual %)"
+                },
+                "country": {
+                    "id": "GB",
+                    "value": "United Kingdom"
+                },
+                "countryiso3code": "GBR",
+                "date": "2024",
+                "value": 3.2715729463592,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "FP.CPI.TOTL.ZG",
+                    "value": "Inflation, consumer prices (annual %)"
+                },
+                "country": {
+                    "id": "GB",
+                    "value": "United Kingdom"
+                },
+                "countryiso3code": "GBR",
+                "date": "2023",
+                "value": 6.79396706793963,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "FP.CPI.TOTL.ZG",
+                    "value": "Inflation, consumer prices (annual %)"
+                },
+                "country": {
+                    "id": "GB",
+                    "value": "United Kingdom"
+                },
+                "countryiso3code": "GBR",
+                "date": "2022",
+                "value": 7.92204883147902,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "FP.CPI.TOTL.ZG",
+                    "value": "Inflation, consumer prices (annual %)"
+                },
+                "country": {
+                    "id": "GB",
+                    "value": "United Kingdom"
+                },
+                "countryiso3code": "GBR",
+                "date": "2021",
+                "value": 2.51837109614213,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "FP.CPI.TOTL.ZG",
+                    "value": "Inflation, consumer prices (annual %)"
+                },
+                "country": {
+                    "id": "GB",
+                    "value": "United Kingdom"
+                },
+                "countryiso3code": "GBR",
+                "date": "2020",
+                "value": 0.989486703772491,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            }
+        ],
+        "unemployment": [
+            {
+                "indicator": {
+                    "id": "SL.UEM.TOTL.ZS",
+                    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+                },
+                "country": {
+                    "id": "GB",
+                    "value": "United Kingdom"
+                },
+                "countryiso3code": "GBR",
+                "date": "2024",
+                "value": 4.361,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "SL.UEM.TOTL.ZS",
+                    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+                },
+                "country": {
+                    "id": "GB",
+                    "value": "United Kingdom"
+                },
+                "countryiso3code": "GBR",
+                "date": "2023",
+                "value": 4.025,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "SL.UEM.TOTL.ZS",
+                    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+                },
+                "country": {
+                    "id": "GB",
+                    "value": "United Kingdom"
+                },
+                "countryiso3code": "GBR",
+                "date": "2022",
+                "value": 3.768,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "SL.UEM.TOTL.ZS",
+                    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+                },
+                "country": {
+                    "id": "GB",
+                    "value": "United Kingdom"
+                },
+                "countryiso3code": "GBR",
+                "date": "2021",
+                "value": 4.864,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "SL.UEM.TOTL.ZS",
+                    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+                },
+                "country": {
+                    "id": "GB",
+                    "value": "United Kingdom"
+                },
+                "countryiso3code": "GBR",
+                "date": "2020",
+                "value": 4.472,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            }
+        ],
+        "debt_gdp": [
+            {
+                "indicator": {
+                    "id": "GC.DOD.TOTL.GD.ZS",
+                    "value": "Central government debt, total (% of GDP)"
+                },
+                "country": {
+                    "id": "GB",
+                    "value": "United Kingdom"
+                },
+                "countryiso3code": "GBR",
+                "date": "2024",
+                "value": 131.073062954793,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "GC.DOD.TOTL.GD.ZS",
+                    "value": "Central government debt, total (% of GDP)"
+                },
+                "country": {
+                    "id": "GB",
+                    "value": "United Kingdom"
+                },
+                "countryiso3code": "GBR",
+                "date": "2023",
+                "value": 136.142431919028,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "GC.DOD.TOTL.GD.ZS",
+                    "value": "Central government debt, total (% of GDP)"
+                },
+                "country": {
+                    "id": "GB",
+                    "value": "United Kingdom"
+                },
+                "countryiso3code": "GBR",
+                "date": "2022",
+                "value": 138.215904304967,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "GC.DOD.TOTL.GD.ZS",
+                    "value": "Central government debt, total (% of GDP)"
+                },
+                "country": {
+                    "id": "GB",
+                    "value": "United Kingdom"
+                },
+                "countryiso3code": "GBR",
+                "date": "2021",
+                "value": 183.804848939919,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "GC.DOD.TOTL.GD.ZS",
+                    "value": "Central government debt, total (% of GDP)"
+                },
+                "country": {
+                    "id": "GB",
+                    "value": "United Kingdom"
+                },
+                "countryiso3code": "GBR",
+                "date": "2020",
+                "value": 194.682828796265,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            }
+        ]
+    },
+    "fdi": [
+        {
+            "indicator": "Foreign direct investment, net outflows (BoP, current US$)",
+            "values": [
+                {
+                    "year": "2024",
+                    "value": -17848715649.0912
+                },
+                {
+                    "year": "2023",
+                    "value": 30207401209.3072
+                },
+                {
+                    "year": "2022",
+                    "value": 143625942660.635
+                },
+                {
+                    "year": "2021",
+                    "value": 133310221742.033
+                },
+                {
+                    "year": "2020",
+                    "value": 16388422616.9056
+                }
+            ]
+        },
+        {
+            "indicator": "Foreign direct investment, net inflows (BoP, current US$)",
+            "values": [
+                {
+                    "year": "2024",
+                    "value": -60647281077.0004
+                },
+                {
+                    "year": "2023",
+                    "value": 13789803776.1608
+                },
+                {
+                    "year": "2022",
+                    "value": 92776358059.3492
+                },
+                {
+                    "year": "2021",
+                    "value": 102431564639.492
+                },
+                {
+                    "year": "2020",
+                    "value": 157185559299.989
+                }
+            ]
+        }
+    ],
+    "political": {
+        "context": "The United Kingdom of Great Britain and Northern Ireland, commonly known as the United Kingdom (UK) or Britain, is a country in northwestern Europe, off the coast of the continental mainland. It comprises England, Scotland, Wales and Northern Ireland, with a population of over 69 million in 2024. The UK includes the island of Great Britain, the north-eastern part of the island of Ireland, and most of the smaller islands within the British Isles, covering 94,354 square miles (244,376\u00a0km2). It shares a land border with the Republic of Ireland and is surrounded by the Atlantic Ocean, the North Sea, the English Channel, the Celtic Sea and the Irish Sea, while maintaining sovereignty over the Crown Dependencies and the British Overseas Territories. The capital and largest city of England and the UK is London; Edinburgh, Cardiff and Belfast are the national capitals of Scotland, Wales and Northern Ireland.",
+        "Government": "Unitaryparliamentary constitutional monarchy[d]",
+        "\u2022Monarch": "Charles III",
+        "\u2022Prime Minister": "Keir Starmer",
+        "Legislature": "Parliament"
+    }
+}

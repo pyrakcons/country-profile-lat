@@ -1,0 +1,25 @@
+{
+    "investment_climate_summary": "The UK's investment climate is characterized by a strong economy with a high GDP growth rate of 1.13% in 2024, relatively low unemployment at 4.36%, and manageable inflation at 3.27%. However, the country's debt-to-GDP ratio remains elevated at 131.07%, posing a risk to fiscal sustainability.",
+    "political_summary": "The UK's political landscape is marked by a stable, parliamentary democracy with a clear government structure, but ongoing debates around Brexit and its impact on the economy may lead to policy uncertainty.",
+    "key_takeaways": [
+        "Strong economy with growing GDP",
+        "Relatively low unemployment rate",
+        "Elevated debt-to-GDP ratio posing a risk to fiscal sustainability",
+        "Ongoing debates around Brexit's impact on the economy"
+    ],
+    "political_landscape": {
+        "government_type": "Parliamentary Democracy",
+        "current_leaders": [
+            "Rishi Sunak",
+            "Liz Truss"
+        ],
+        "major_parties": [
+            "Conservative Party",
+            "Labour Party",
+            "Liberal Democrats"
+        ],
+        "stability": "High",
+        "upcoming_elections": "General Election expected by 2025, though exact date not yet confirmed.",
+        "recent_conflicts": "The ongoing impact of Brexit and its economic effects."
+    }
+}

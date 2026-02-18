@@ -1,0 +1,318 @@
+{
+    "metadata": {
+        "name": "Canada",
+        "code": "CAN",
+        "flag": "https://flagcdn.com/w320/ca.png"
+    },
+    "wiki": {
+        "type": "standard",
+        "title": "Canada",
+        "displaytitle": "<span class=\"mw-page-title-main\">Canada</span>",
+        "namespace": {
+            "id": 0,
+            "text": ""
+        },
+        "wikibase_item": "Q16",
+        "titles": {
+            "canonical": "Canada",
+            "normalized": "Canada",
+            "display": "<span class=\"mw-page-title-main\">Canada</span>"
+        },
+        "pageid": 5042916,
+        "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/330px-Flag_of_Canada_%28Pantone%29.svg.png",
+            "width": 330,
+            "height": 165
+        },
+        "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/1280px-Flag_of_Canada_%28Pantone%29.svg.png",
+            "width": 1200,
+            "height": 600
+        },
+        "lang": "en",
+        "dir": "ltr",
+        "revision": "1338093361",
+        "tid": "3bb608cb-0899-11f1-b9e4-8ab191e085b4",
+        "timestamp": "2026-02-13T05:02:45Z",
+        "description": "Country in North America",
+        "description_source": "local",
+        "coordinates": {
+            "lat": 60,
+            "lon": -110
+        },
+        "content_urls": {
+            "desktop": {
+                "page": "https://en.wikipedia.org/wiki/Canada",
+                "revisions": "https://en.wikipedia.org/wiki/Canada?action=history",
+                "edit": "https://en.wikipedia.org/wiki/Canada?action=edit",
+                "talk": "https://en.wikipedia.org/wiki/Talk:Canada"
+            },
+            "mobile": {
+                "page": "https://en.wikipedia.org/wiki/Canada",
+                "revisions": "https://en.wikipedia.org/wiki/Special:History/Canada",
+                "edit": "https://en.wikipedia.org/wiki/Canada?action=edit",
+                "talk": "https://en.wikipedia.org/wiki/Talk:Canada"
+            }
+        },
+        "extract": "Canada is a country in North America. Its ten provinces and three territories extend from the Atlantic Ocean to the Pacific Ocean and northward into the Arctic Ocean, making it the second-largest country by total area, with the longest coastline of any country. Its border with the United States is the longest international land border. The country is characterized by a wide range of both meteorologic and geological regions. With a population of over 41\u00a0million, it has widely varying population densities, with the majority residing in its urban areas and large areas being sparsely populated. Its capital is Ottawa and its three largest metropolitan areas are Toronto, Montreal, and Vancouver.",
+        "extract_html": "<p><b>Canada</b> is a country in North America. Its ten provinces and three territories extend from the Atlantic Ocean to the Pacific Ocean and northward into the Arctic Ocean, making it the second-largest country by total area, with the longest coastline of any country. Its border with the United States is the longest international land border. The country is characterized by a wide range of both meteorologic and geological regions. With a population of over 41<span class=\"nowrap\">\u00a0</span>million, it has widely varying population densities, with the majority residing in its urban areas and large areas being sparsely populated. Its capital is Ottawa and its three largest metropolitan areas are Toronto, Montreal, and Vancouver.</p>"
+    },
+    "macro": {
+        "gdp": [],
+        "gdp_growth": [
+            {
+                "indicator": {
+                    "id": "NY.GDP.MKTP.KD.ZG",
+                    "value": "GDP growth (annual %)"
+                },
+                "country": {
+                    "id": "CA",
+                    "value": "Canada"
+                },
+                "countryiso3code": "CAN",
+                "date": "2024",
+                "value": 1.55479521049516,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "NY.GDP.MKTP.KD.ZG",
+                    "value": "GDP growth (annual %)"
+                },
+                "country": {
+                    "id": "CA",
+                    "value": "Canada"
+                },
+                "countryiso3code": "CAN",
+                "date": "2023",
+                "value": 1.52874550838358,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "NY.GDP.MKTP.KD.ZG",
+                    "value": "GDP growth (annual %)"
+                },
+                "country": {
+                    "id": "CA",
+                    "value": "Canada"
+                },
+                "countryiso3code": "CAN",
+                "date": "2022",
+                "value": 4.18903628100851,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "NY.GDP.MKTP.KD.ZG",
+                    "value": "GDP growth (annual %)"
+                },
+                "country": {
+                    "id": "CA",
+                    "value": "Canada"
+                },
+                "countryiso3code": "CAN",
+                "date": "2021",
+                "value": 5.95052802804381,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "NY.GDP.MKTP.KD.ZG",
+                    "value": "GDP growth (annual %)"
+                },
+                "country": {
+                    "id": "CA",
+                    "value": "Canada"
+                },
+                "countryiso3code": "CAN",
+                "date": "2020",
+                "value": -5.03823343468899,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            }
+        ],
+        "inflation": [
+            {
+                "indicator": {
+                    "id": "FP.CPI.TOTL.ZG",
+                    "value": "Inflation, consumer prices (annual %)"
+                },
+                "country": {
+                    "id": "CA",
+                    "value": "Canada"
+                },
+                "countryiso3code": "CAN",
+                "date": "2024",
+                "value": 2.38158383281173,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "FP.CPI.TOTL.ZG",
+                    "value": "Inflation, consumer prices (annual %)"
+                },
+                "country": {
+                    "id": "CA",
+                    "value": "Canada"
+                },
+                "countryiso3code": "CAN",
+                "date": "2023",
+                "value": 3.87900159788426,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "FP.CPI.TOTL.ZG",
+                    "value": "Inflation, consumer prices (annual %)"
+                },
+                "country": {
+                    "id": "CA",
+                    "value": "Canada"
+                },
+                "countryiso3code": "CAN",
+                "date": "2022",
+                "value": 6.80280115341613,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "FP.CPI.TOTL.ZG",
+                    "value": "Inflation, consumer prices (annual %)"
+                },
+                "country": {
+                    "id": "CA",
+                    "value": "Canada"
+                },
+                "countryiso3code": "CAN",
+                "date": "2021",
+                "value": 3.39519318527528,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "FP.CPI.TOTL.ZG",
+                    "value": "Inflation, consumer prices (annual %)"
+                },
+                "country": {
+                    "id": "CA",
+                    "value": "Canada"
+                },
+                "countryiso3code": "CAN",
+                "date": "2020",
+                "value": 0.716999632307827,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            }
+        ],
+        "unemployment": [],
+        "debt_gdp": [
+            {
+                "indicator": {
+                    "id": "GC.DOD.TOTL.GD.ZS",
+                    "value": "Central government debt, total (% of GDP)"
+                },
+                "country": {
+                    "id": "CA",
+                    "value": "Canada"
+                },
+                "countryiso3code": "CAN",
+                "date": "2024",
+                "value": 64.9003074523507,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "GC.DOD.TOTL.GD.ZS",
+                    "value": "Central government debt, total (% of GDP)"
+                },
+                "country": {
+                    "id": "CA",
+                    "value": "Canada"
+                },
+                "countryiso3code": "CAN",
+                "date": "2023",
+                "value": 62.4731322069255,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "GC.DOD.TOTL.GD.ZS",
+                    "value": "Central government debt, total (% of GDP)"
+                },
+                "country": {
+                    "id": "CA",
+                    "value": "Canada"
+                },
+                "countryiso3code": "CAN",
+                "date": "2022",
+                "value": 59.9440184640855,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "GC.DOD.TOTL.GD.ZS",
+                    "value": "Central government debt, total (% of GDP)"
+                },
+                "country": {
+                    "id": "CA",
+                    "value": "Canada"
+                },
+                "countryiso3code": "CAN",
+                "date": "2021",
+                "value": 68.7795713723483,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "GC.DOD.TOTL.GD.ZS",
+                    "value": "Central government debt, total (% of GDP)"
+                },
+                "country": {
+                    "id": "CA",
+                    "value": "Canada"
+                },
+                "countryiso3code": "CAN",
+                "date": "2020",
+                "value": 74.5544073791525,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            }
+        ]
+    },
+    "fdi": [],
+    "political": {
+        "context": "Canada is a country in North America. Its ten provinces and three territories extend from the Atlantic Ocean to the Pacific Ocean and northward into the Arctic Ocean, making it the second-largest country by total area, with the longest coastline of any country. Its border with the United States is the longest international land border. The country is characterized by a wide range of both meteorologic and geological regions. With a population of over 41\u00a0million, it has widely varying population densities, with the majority residing in its urban areas and large areas being sparsely populated. Its capital is Ottawa and its three largest metropolitan areas are Toronto, Montreal, and Vancouver.",
+        "Government": "Federalparliamentary constitutional monarchy",
+        "\u2022Monarch": "Charles III",
+        "\u2022Prime Minister": "Mark Carney",
+        "Legislature": "Parliament"
+    }
+}

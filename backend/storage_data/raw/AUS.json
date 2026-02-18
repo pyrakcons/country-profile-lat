@@ -1,0 +1,318 @@
+{
+    "metadata": {
+        "name": "Australia",
+        "code": "AUS",
+        "flag": "https://flagcdn.com/w320/au.png"
+    },
+    "wiki": {
+        "type": "standard",
+        "title": "Australia",
+        "displaytitle": "<span class=\"mw-page-title-main\">Australia</span>",
+        "namespace": {
+            "id": 0,
+            "text": ""
+        },
+        "wikibase_item": "Q408",
+        "titles": {
+            "canonical": "Australia",
+            "normalized": "Australia",
+            "display": "<span class=\"mw-page-title-main\">Australia</span>"
+        },
+        "pageid": 4689264,
+        "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png",
+            "width": 330,
+            "height": 165
+        },
+        "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/1280px-Flag_of_Australia_%28converted%29.svg.png",
+            "width": 1280,
+            "height": 640
+        },
+        "lang": "en",
+        "dir": "ltr",
+        "revision": "1338353760",
+        "tid": "ff37fb13-09cd-11f1-9b4b-bbeadeaae665",
+        "timestamp": "2026-02-14T17:52:58Z",
+        "description": "Country in Oceania",
+        "description_source": "local",
+        "coordinates": {
+            "lat": -25,
+            "lon": 133
+        },
+        "content_urls": {
+            "desktop": {
+                "page": "https://en.wikipedia.org/wiki/Australia",
+                "revisions": "https://en.wikipedia.org/wiki/Australia?action=history",
+                "edit": "https://en.wikipedia.org/wiki/Australia?action=edit",
+                "talk": "https://en.wikipedia.org/wiki/Talk:Australia"
+            },
+            "mobile": {
+                "page": "https://en.wikipedia.org/wiki/Australia",
+                "revisions": "https://en.wikipedia.org/wiki/Special:History/Australia",
+                "edit": "https://en.wikipedia.org/wiki/Australia?action=edit",
+                "talk": "https://en.wikipedia.org/wiki/Talk:Australia"
+            }
+        },
+        "extract": "Australia, officially the Commonwealth of Australia, is a country comprising the mainland of the Australian continent, the island of Tasmania and numerous smaller islands. It has a total area of 7,688,287\u00a0km2 (2,968,464\u00a0sq\u00a0mi), making it the sixth-largest country in the world and the largest in Oceania. Australia is the world's flattest and driest inhabited continent. It is a megadiverse country, and its size gives it a wide variety of landscapes and climates including deserts in the interior and tropical rainforests along the coast.",
+        "extract_html": "<p><b>Australia</b>, officially the <b>Commonwealth of Australia</b>, is a country comprising the mainland of the Australian continent, the island of Tasmania and numerous smaller islands. It has a total area of 7,688,287\u00a0km<sup>2</sup> (2,968,464\u00a0sq\u00a0mi), making it the sixth-largest country in the world and the largest in Oceania. Australia is the world's flattest and driest inhabited continent. It is a megadiverse country, and its size gives it a wide variety of landscapes and climates including deserts in the interior and tropical rainforests along the coast.</p>"
+    },
+    "macro": {
+        "gdp": [
+            {
+                "indicator": {
+                    "id": "NY.GDP.MKTP.CD",
+                    "value": "GDP (current US$)"
+                },
+                "country": {
+                    "id": "AU",
+                    "value": "Australia"
+                },
+                "countryiso3code": "AUS",
+                "date": "2024",
+                "value": 1757022451652.83,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 0
+            },
+            {
+                "indicator": {
+                    "id": "NY.GDP.MKTP.CD",
+                    "value": "GDP (current US$)"
+                },
+                "country": {
+                    "id": "AU",
+                    "value": "Australia"
+                },
+                "countryiso3code": "AUS",
+                "date": "2023",
+                "value": 1734451264655.6,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 0
+            },
+            {
+                "indicator": {
+                    "id": "NY.GDP.MKTP.CD",
+                    "value": "GDP (current US$)"
+                },
+                "country": {
+                    "id": "AU",
+                    "value": "Australia"
+                },
+                "countryiso3code": "AUS",
+                "date": "2022",
+                "value": 1695627535475.8,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 0
+            },
+            {
+                "indicator": {
+                    "id": "NY.GDP.MKTP.CD",
+                    "value": "GDP (current US$)"
+                },
+                "country": {
+                    "id": "AU",
+                    "value": "Australia"
+                },
+                "countryiso3code": "AUS",
+                "date": "2021",
+                "value": 1560617493202.69,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 0
+            },
+            {
+                "indicator": {
+                    "id": "NY.GDP.MKTP.CD",
+                    "value": "GDP (current US$)"
+                },
+                "country": {
+                    "id": "AU",
+                    "value": "Australia"
+                },
+                "countryiso3code": "AUS",
+                "date": "2020",
+                "value": 1333336461648.09,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 0
+            }
+        ],
+        "gdp_growth": [
+            {
+                "indicator": {
+                    "id": "NY.GDP.MKTP.KD.ZG",
+                    "value": "GDP growth (annual %)"
+                },
+                "country": {
+                    "id": "AU",
+                    "value": "Australia"
+                },
+                "countryiso3code": "AUS",
+                "date": "2024",
+                "value": 1.37340773365975,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "NY.GDP.MKTP.KD.ZG",
+                    "value": "GDP growth (annual %)"
+                },
+                "country": {
+                    "id": "AU",
+                    "value": "Australia"
+                },
+                "countryiso3code": "AUS",
+                "date": "2023",
+                "value": 3.58382100798981,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "NY.GDP.MKTP.KD.ZG",
+                    "value": "GDP growth (annual %)"
+                },
+                "country": {
+                    "id": "AU",
+                    "value": "Australia"
+                },
+                "countryiso3code": "AUS",
+                "date": "2022",
+                "value": 4.25304559238732,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "NY.GDP.MKTP.KD.ZG",
+                    "value": "GDP growth (annual %)"
+                },
+                "country": {
+                    "id": "AU",
+                    "value": "Australia"
+                },
+                "countryiso3code": "AUS",
+                "date": "2021",
+                "value": 2.00694844335034,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "NY.GDP.MKTP.KD.ZG",
+                    "value": "GDP growth (annual %)"
+                },
+                "country": {
+                    "id": "AU",
+                    "value": "Australia"
+                },
+                "countryiso3code": "AUS",
+                "date": "2020",
+                "value": -0.133531904304775,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            }
+        ],
+        "inflation": [],
+        "unemployment": [],
+        "debt_gdp": [
+            {
+                "indicator": {
+                    "id": "GC.DOD.TOTL.GD.ZS",
+                    "value": "Central government debt, total (% of GDP)"
+                },
+                "country": {
+                    "id": "AU",
+                    "value": "Australia"
+                },
+                "countryiso3code": "AUS",
+                "date": "2024",
+                "value": null,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "GC.DOD.TOTL.GD.ZS",
+                    "value": "Central government debt, total (% of GDP)"
+                },
+                "country": {
+                    "id": "AU",
+                    "value": "Australia"
+                },
+                "countryiso3code": "AUS",
+                "date": "2023",
+                "value": null,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "GC.DOD.TOTL.GD.ZS",
+                    "value": "Central government debt, total (% of GDP)"
+                },
+                "country": {
+                    "id": "AU",
+                    "value": "Australia"
+                },
+                "countryiso3code": "AUS",
+                "date": "2022",
+                "value": 57.8834285733848,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "GC.DOD.TOTL.GD.ZS",
+                    "value": "Central government debt, total (% of GDP)"
+                },
+                "country": {
+                    "id": "AU",
+                    "value": "Australia"
+                },
+                "countryiso3code": "AUS",
+                "date": "2021",
+                "value": 69.836773674895,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "GC.DOD.TOTL.GD.ZS",
+                    "value": "Central government debt, total (% of GDP)"
+                },
+                "country": {
+                    "id": "AU",
+                    "value": "Australia"
+                },
+                "countryiso3code": "AUS",
+                "date": "2020",
+                "value": 69.0656538994855,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            }
+        ]
+    },
+    "fdi": [],
+    "political": {
+        "context": "Australia, officially the Commonwealth of Australia, is a country comprising the mainland of the Australian continent, the island of Tasmania and numerous smaller islands. It has a total area of 7,688,287\u00a0km2 (2,968,464\u00a0sq\u00a0mi), making it the sixth-largest country in the world and the largest in Oceania. Australia is the world's flattest and driest inhabited continent. It is a megadiverse country, and its size gives it a wide variety of landscapes and climates including deserts in the interior and tropical rainforests along the coast.",
+        "Government": "Federalparliamentaryconstitutional monarchy",
+        "\u2022Monarch": "Charles III",
+        "\u2022Prime Minister": "Anthony Albanese",
+        "Legislature": "Parliament"
+    }
+}

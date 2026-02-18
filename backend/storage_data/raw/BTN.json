@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "name": "Bhutan",
+        "code": "BTN",
+        "flag": "https://flagcdn.com/w320/bt.png"
+    },
+    "wiki": null,
+    "macro": {
+        "gdp": [
+            {
+                "indicator": {
+                    "id": "NY.GDP.MKTP.CD",
+                    "value": "GDP (current US$)"
+                },
+                "country": {
+                    "id": "BT",
+                    "value": "Bhutan"
+                },
+                "countryiso3code": "BTN",
+                "date": "2023",
+                "value": 3012896789.24928,
+                "obs_status": "",
+                "decimal": 0
+            }
+        ],
+        "gdp_growth": [
+            {
+                "indicator": {
+                    "id": "NY.GDP.MKTP.KD.ZG",
+                    "value": "GDP growth (annual %)"
+                },
+                "country": {
+                    "id": "BT",
+                    "value": "Bhutan"
+                },
+                "countryiso3code": "BTN",
+                "date": "2023",
+                "value": 4.63215704523927,
+                "obs_status": "",
+                "decimal": 1
+            }
+        ],
+        "inflation": [
+            {
+                "indicator": {
+                    "id": "FP.CPI.TOTL.ZG",
+                    "value": "Inflation, consumer prices (annual %)"
+                },
+                "country": {
+                    "id": "BT",
+                    "value": "Bhutan"
+                },
+                "countryiso3code": "BTN",
+                "date": "2024",
+                "value": 2.76131569624098,
+                "obs_status": "",
+                "decimal": 1
+            }
+        ],
+        "unemployment": [],
+        "debt_gdp": [
+            {
+                "indicator": {
+                    "id": "GC.DOD.TOTL.GD.ZS",
+                    "value": "Central government debt, total (% of GDP)"
+                },
+                "country": {
+                    "id": "BT",
+                    "value": "Bhutan"
+                },
+                "countryiso3code": "BTN",
+                "date": "2020",
+                "value": 111.007884099526,
+                "obs_status": "",
+                "decimal": 1
+            }
+        ]
+    },
+    "fdi": [],
+    "political": {
+        "context": ""
+    }
+}

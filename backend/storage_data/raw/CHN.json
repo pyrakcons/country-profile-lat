@@ -1,0 +1,506 @@
+{
+    "metadata": {
+        "name": "China",
+        "code": "CHN",
+        "flag": "https://flagcdn.com/w320/cn.png"
+    },
+    "wiki": {
+        "type": "standard",
+        "title": "China",
+        "displaytitle": "<span class=\"mw-page-title-main\">China</span>",
+        "namespace": {
+            "id": 0,
+            "text": ""
+        },
+        "wikibase_item": "Q148",
+        "titles": {
+            "canonical": "China",
+            "normalized": "China",
+            "display": "<span class=\"mw-page-title-main\">China</span>"
+        },
+        "pageid": 5405,
+        "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/330px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+            "width": 330,
+            "height": 220
+        },
+        "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/960px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+            "width": 900,
+            "height": 600
+        },
+        "lang": "en",
+        "dir": "ltr",
+        "revision": "1338719913",
+        "tid": "516a4f43-0b7b-11f1-8696-29d76a33e06d",
+        "timestamp": "2026-02-16T21:06:10Z",
+        "description": "Country in East Asia",
+        "description_source": "local",
+        "coordinates": {
+            "lat": 35,
+            "lon": 103
+        },
+        "content_urls": {
+            "desktop": {
+                "page": "https://en.wikipedia.org/wiki/China",
+                "revisions": "https://en.wikipedia.org/wiki/China?action=history",
+                "edit": "https://en.wikipedia.org/wiki/China?action=edit",
+                "talk": "https://en.wikipedia.org/wiki/Talk:China"
+            },
+            "mobile": {
+                "page": "https://en.wikipedia.org/wiki/China",
+                "revisions": "https://en.wikipedia.org/wiki/Special:History/China",
+                "edit": "https://en.wikipedia.org/wiki/China?action=edit",
+                "talk": "https://en.wikipedia.org/wiki/Talk:China"
+            }
+        },
+        "extract": "China, officially the People's Republic of China (PRC), is a country in East Asia. It is the second-most populous country after India, with a population exceeding 1.4 billion, representing 17% of the world's population. China borders fourteen countries by land across an area of 9.6\u00a0million square kilometers (3,700,000\u00a0sq\u00a0mi), making it the third-largest country by area. The country is divided into 33 province-level divisions: 22 provinces, 5 autonomous regions, 4 municipalities, and 2 semi-autonomous special administrative regions. Beijing is the capital, while Shanghai is the most populous city by urban area and largest financial center.",
+        "extract_html": "<p><b>China</b>, officially the <b>People's Republic of China</b> (<b>PRC</b>), is a country in East Asia. It is the second-most populous country after India, with a population exceeding 1.4 billion, representing 17% of the world's population. China borders fourteen countries by land across an area of 9.6\u00a0million square kilometers (3,700,000\u00a0sq\u00a0mi), making it the third-largest country by area. The country is divided into 33 province-level divisions: 22 provinces, 5 autonomous regions, 4 municipalities, and 2 semi-autonomous special administrative regions. Beijing is the capital, while Shanghai is the most populous city by urban area and largest financial center.</p>"
+    },
+    "macro": {
+        "gdp": [
+            {
+                "indicator": {
+                    "id": "NY.GDP.MKTP.CD",
+                    "value": "GDP (current US$)"
+                },
+                "country": {
+                    "id": "CN",
+                    "value": "China"
+                },
+                "countryiso3code": "CHN",
+                "date": "2024",
+                "value": 18743803170827.2,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 0
+            },
+            {
+                "indicator": {
+                    "id": "NY.GDP.MKTP.CD",
+                    "value": "GDP (current US$)"
+                },
+                "country": {
+                    "id": "CN",
+                    "value": "China"
+                },
+                "countryiso3code": "CHN",
+                "date": "2023",
+                "value": 18270356654533.2,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 0
+            },
+            {
+                "indicator": {
+                    "id": "NY.GDP.MKTP.CD",
+                    "value": "GDP (current US$)"
+                },
+                "country": {
+                    "id": "CN",
+                    "value": "China"
+                },
+                "countryiso3code": "CHN",
+                "date": "2022",
+                "value": 18316765021690.2,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 0
+            },
+            {
+                "indicator": {
+                    "id": "NY.GDP.MKTP.CD",
+                    "value": "GDP (current US$)"
+                },
+                "country": {
+                    "id": "CN",
+                    "value": "China"
+                },
+                "countryiso3code": "CHN",
+                "date": "2021",
+                "value": 18201698719564,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 0
+            },
+            {
+                "indicator": {
+                    "id": "NY.GDP.MKTP.CD",
+                    "value": "GDP (current US$)"
+                },
+                "country": {
+                    "id": "CN",
+                    "value": "China"
+                },
+                "countryiso3code": "CHN",
+                "date": "2020",
+                "value": 14996414166715.1,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 0
+            }
+        ],
+        "gdp_growth": [
+            {
+                "indicator": {
+                    "id": "NY.GDP.MKTP.KD.ZG",
+                    "value": "GDP growth (annual %)"
+                },
+                "country": {
+                    "id": "CN",
+                    "value": "China"
+                },
+                "countryiso3code": "CHN",
+                "date": "2024",
+                "value": 4.9773565917572,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "NY.GDP.MKTP.KD.ZG",
+                    "value": "GDP growth (annual %)"
+                },
+                "country": {
+                    "id": "CN",
+                    "value": "China"
+                },
+                "countryiso3code": "CHN",
+                "date": "2023",
+                "value": 5.41484330099675,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "NY.GDP.MKTP.KD.ZG",
+                    "value": "GDP growth (annual %)"
+                },
+                "country": {
+                    "id": "CN",
+                    "value": "China"
+                },
+                "countryiso3code": "CHN",
+                "date": "2022",
+                "value": 3.1341888719577,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "NY.GDP.MKTP.KD.ZG",
+                    "value": "GDP growth (annual %)"
+                },
+                "country": {
+                    "id": "CN",
+                    "value": "China"
+                },
+                "countryiso3code": "CHN",
+                "date": "2021",
+                "value": 8.57008513166322,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "NY.GDP.MKTP.KD.ZG",
+                    "value": "GDP growth (annual %)"
+                },
+                "country": {
+                    "id": "CN",
+                    "value": "China"
+                },
+                "countryiso3code": "CHN",
+                "date": "2020",
+                "value": 2.34018843078414,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            }
+        ],
+        "inflation": [
+            {
+                "indicator": {
+                    "id": "FP.CPI.TOTL.ZG",
+                    "value": "Inflation, consumer prices (annual %)"
+                },
+                "country": {
+                    "id": "CN",
+                    "value": "China"
+                },
+                "countryiso3code": "CHN",
+                "date": "2024",
+                "value": 0.218128938439177,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "FP.CPI.TOTL.ZG",
+                    "value": "Inflation, consumer prices (annual %)"
+                },
+                "country": {
+                    "id": "CN",
+                    "value": "China"
+                },
+                "countryiso3code": "CHN",
+                "date": "2023",
+                "value": 0.234836828893051,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "FP.CPI.TOTL.ZG",
+                    "value": "Inflation, consumer prices (annual %)"
+                },
+                "country": {
+                    "id": "CN",
+                    "value": "China"
+                },
+                "countryiso3code": "CHN",
+                "date": "2022",
+                "value": 1.97357555739051,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "FP.CPI.TOTL.ZG",
+                    "value": "Inflation, consumer prices (annual %)"
+                },
+                "country": {
+                    "id": "CN",
+                    "value": "China"
+                },
+                "countryiso3code": "CHN",
+                "date": "2021",
+                "value": 0.981015135544882,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "FP.CPI.TOTL.ZG",
+                    "value": "Inflation, consumer prices (annual %)"
+                },
+                "country": {
+                    "id": "CN",
+                    "value": "China"
+                },
+                "countryiso3code": "CHN",
+                "date": "2020",
+                "value": 2.41942189457782,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            }
+        ],
+        "unemployment": [
+            {
+                "indicator": {
+                    "id": "SL.UEM.TOTL.ZS",
+                    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+                },
+                "country": {
+                    "id": "CN",
+                    "value": "China"
+                },
+                "countryiso3code": "CHN",
+                "date": "2024",
+                "value": 4.59,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "SL.UEM.TOTL.ZS",
+                    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+                },
+                "country": {
+                    "id": "CN",
+                    "value": "China"
+                },
+                "countryiso3code": "CHN",
+                "date": "2023",
+                "value": 4.67,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "SL.UEM.TOTL.ZS",
+                    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+                },
+                "country": {
+                    "id": "CN",
+                    "value": "China"
+                },
+                "countryiso3code": "CHN",
+                "date": "2022",
+                "value": 4.98,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "SL.UEM.TOTL.ZS",
+                    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+                },
+                "country": {
+                    "id": "CN",
+                    "value": "China"
+                },
+                "countryiso3code": "CHN",
+                "date": "2021",
+                "value": 4.55,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "SL.UEM.TOTL.ZS",
+                    "value": "Unemployment, total (% of total labor force) (modeled ILO estimate)"
+                },
+                "country": {
+                    "id": "CN",
+                    "value": "China"
+                },
+                "countryiso3code": "CHN",
+                "date": "2020",
+                "value": 5,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            }
+        ],
+        "debt_gdp": [
+            {
+                "indicator": {
+                    "id": "GC.DOD.TOTL.GD.ZS",
+                    "value": "Central government debt, total (% of GDP)"
+                },
+                "country": {
+                    "id": "CN",
+                    "value": "China"
+                },
+                "countryiso3code": "CHN",
+                "date": "2024",
+                "value": null,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "GC.DOD.TOTL.GD.ZS",
+                    "value": "Central government debt, total (% of GDP)"
+                },
+                "country": {
+                    "id": "CN",
+                    "value": "China"
+                },
+                "countryiso3code": "CHN",
+                "date": "2023",
+                "value": null,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "GC.DOD.TOTL.GD.ZS",
+                    "value": "Central government debt, total (% of GDP)"
+                },
+                "country": {
+                    "id": "CN",
+                    "value": "China"
+                },
+                "countryiso3code": "CHN",
+                "date": "2022",
+                "value": null,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "GC.DOD.TOTL.GD.ZS",
+                    "value": "Central government debt, total (% of GDP)"
+                },
+                "country": {
+                    "id": "CN",
+                    "value": "China"
+                },
+                "countryiso3code": "CHN",
+                "date": "2021",
+                "value": null,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            },
+            {
+                "indicator": {
+                    "id": "GC.DOD.TOTL.GD.ZS",
+                    "value": "Central government debt, total (% of GDP)"
+                },
+                "country": {
+                    "id": "CN",
+                    "value": "China"
+                },
+                "countryiso3code": "CHN",
+                "date": "2020",
+                "value": null,
+                "unit": "",
+                "obs_status": "",
+                "decimal": 1
+            }
+        ]
+    },
+    "fdi": [
+        {
+            "indicator": "Foreign direct investment, net inflows (BoP, current US$)",
+            "values": [
+                {
+                    "year": "2024",
+                    "value": 18556141172.84
+                },
+                {
+                    "year": "2023",
+                    "value": 51338076801.59
+                },
+                {
+                    "year": "2022",
+                    "value": 190203789092.51
+                },
+                {
+                    "year": "2021",
+                    "value": 344074977062.48
+                },
+                {
+                    "year": "2020",
+                    "value": 253095616058.58
+                }
+            ]
+        }
+    ],
+    "political": {
+        "context": "China, officially the People's Republic of China (PRC), is a country in East Asia. It is the second-most populous country after India, with a population exceeding 1.4 billion, representing 17% of the world's population. China borders fourteen countries by land across an area of 9.6\u00a0million square kilometers (3,700,000\u00a0sq\u00a0mi), making it the third-largest country by area. The country is divided into 33 province-level divisions: 22 provinces, 5 autonomous regions, 4 municipalities, and 2 semi-autonomous special administrative regions. Beijing is the capital, while Shanghai is the most populous city by urban area and largest financial center.",
+        "Government": "Unitarycommunist state",
+        "\u2022CCP General SecretaryandPresident[a]": "Xi Jinping",
+        "\u2022Vice President": "Han Zheng",
+        "Legislature": "National People's Congress[c]"
+    }
+}
