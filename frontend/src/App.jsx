@@ -180,7 +180,8 @@ function App() {
     setLoading(true)
     setError(null)
     try {
-      const resp = await axios.get(`http://localhost:8000/api/country/${query}`)
+      const baseUrl = import.meta.env.VITE_BACKEND_URL || 'http://localhost:8000'
+      const resp = await axios.get(`${baseUrl}/api/country/${query}`)
       setData(resp.data)
     } catch (err) {
       setError(err.response?.data?.detail || 'Failed to fetch country data')
